@@ -1,0 +1,55 @@
+*
+{
+    margin: o;
+    padding: 0;
+    
+}
+.btn1
+{
+    color: black;
+    padding: 10px 15px 10px;
+    margin-left: 20px;
+    border-color: gray;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+.btn2
+{
+    color: black;
+    padding: 10px 15px 10px;
+    margin-left: 20px;
+    border-color:skyblue;
+    background-color: white;
+    border-radius: 5px;
+
+}
+.name
+{
+    font-size: 30px;
+    margin-left: 10px;
+}
+.input
+{
+    margin-left: 10px;
+    padding: 5px 10px 5px;
+    font-size: 20px;
+    border-color: lightgray;
+    color: gray;
+}
+.name1
+{
+    font-size: 30px;
+    margin-left: 20px; 
+}
+.name2
+{
+    font-size: 30px;
+    margin-left: 5px; 
+}
+.name3
+{
+    font-size: 30px;
+    margin-left: 5px; 
+}
+
+
